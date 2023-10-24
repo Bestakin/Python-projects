@@ -1,5 +1,5 @@
 # Python  Projects
-To fully grasp Python, I have started doing small projects. 
+To fully grasp Python, I started doing small projects. 
 
 # Below I have the following files: 
 Caeser Cipher, the code is used to cipher and decipher a text.
